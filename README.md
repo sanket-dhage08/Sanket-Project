@@ -1,2 +1,2 @@
-# Sanket-Project
+Project
 Hello World
